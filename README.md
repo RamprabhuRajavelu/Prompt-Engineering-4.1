@@ -3,8 +3,7 @@
 # **EXP 4 – Scenario-Based Report Development Utilizing Diverse Prompting Techniques**
 
 ### **Lab Scenario: Smart Health Assistant System – "MediGuide"**
-
----
+### NAME : RAMPRABHU R
 
 ## REGISTER NUMBER:212222040129
 
